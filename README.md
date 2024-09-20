@@ -3,7 +3,7 @@
 #### Steps
 
 1. Start Cadence Genus by invoking `/umbc/software/scripts/launch_cadence_genus.sh.`
-2. After the completion of the launch, which will resemble the following.Next, on the Genus terminal type in `./tcl/source mult_32b.tcl` to get the gate count and area of 32b floating point multiplier.
+2. After the completion of the launch, which will resemble the following.Next, on the Genus terminal type in `./tcl/source mult_32b.tcl` to get the gate count and area of a 32b floating point multiplier.
 ```
 rahman2@resilient:~/GIT/gate_count_genus$ /umbc/software/scripts/launch_cadence_genus.sh
 2024/09/19 20:55:10 WARNING This OS does not appear to be a Cadence supported Linux configuration.
