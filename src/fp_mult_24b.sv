@@ -1,5 +1,5 @@
 module fp_mult_24b(
-                    clk,
+                    // clk,
                     a,
                     b,
                     r
@@ -7,7 +7,7 @@ module fp_mult_24b(
     parameter N = 24;
     parameter ES = 6;
 
-    input  wire clk;
+    // input  wire clk;
     input  wire [N-1:0] a;
     input  wire [N-1:0] b;
     output wire [N-1:0] r;
